@@ -1,8 +1,8 @@
 {
     "name": "Dev'Coffee",
     "short_name": "DevCoffee",
-    "start_url": "/",
-    "scope":"/",
+    "start_url": "/ms_pwa_apps/",
+    "scope":"/ms_pwa_apps/",
     "display": "standalone",
     "background_color": "#fdfdfd",
     "theme_color": "#db4938",
